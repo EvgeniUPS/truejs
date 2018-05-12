@@ -1,0 +1,12 @@
+body{
+  display: flex;
+}
+p{
+/* background: green; */
+width: 200px;
+height: 200px;
+border-radius: 15px;
+padding: 10px;
+margin: 10px;
+
+}
